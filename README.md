@@ -13,7 +13,7 @@ Hello! My name is João Victor and I have a degree in Systems Analysis and Devel
 
 ## Stack
 
-- main language: Python
+- Main language: Python
 - Learning: C, SQL
 
 ## Objetivos

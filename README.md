@@ -2,7 +2,7 @@
 
 # João Victor
 
-## Sobre mim (br)
+## Sobre mim (pt)
 
 Olá! Meu nome é João Victor e sou formado em Análise e Desenvolvimento de Sistemas (ADS) na UDF (Universidade do Distrito Federal). Sou aficionado por programação e estou focando em desenvolvimento backend com Python.
 
